@@ -1,16 +1,16 @@
-## Hi there 👋
+你好，我是啊长
 
-<!--
-**Z2155335950/Z2155335950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+做带引用、可核验的垂直领域 AI 工作流：先找证据，再回答。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 方向：RAG 引用校验 · 人机协同工作流 · 隐私本地优先
+🧩 技术栈：Python · FastAPI · TypeScript · Next.js · SQLite
+🏗️ 正在打磨面向健康与门店经营场景的可运行原型
+📌 代表项目
+项目	一句话	技术
+理疗门店 AI 接诊工作台	PDF 接诊表 → 有来源的 AI 草稿 → 理疗师确认入库，隐私本地优先	FastAPI · SQLite · RAG
+健身文档 RAG 助手	先检索再回答，强制引用，没资料就拒答	FastAPI · BGE · BM25 · RRF
+菜价雷达	上传供应商报价单，按预计毛利损失找出正在亏钱的菜	Next.js · TypeScript · SQLite
+🧭 我的原则
+关键数字交给代码算，不让模型心算
+没有来源就拒答，不把猜测包装成事实
+人始终在环里：AI 出草稿，人做决定
